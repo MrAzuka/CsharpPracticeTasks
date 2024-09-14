@@ -47,6 +47,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Solutions\PQ1.cs" />
     <Compile Include="Solutions\PQ2.cs" />
+    <Compile Include="Solutions\PQ3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
